@@ -86,8 +86,7 @@ Delta [0,31]
 
 ## Datasets
 
-In order to test the developed delta run length encoded algorithm, data sets for temperature and humidity were obtained from the National Oceanic Atmospheric Administration (NOAA). More specifically the [Sub-hourly quality control datasets](https://www.ncdc.noaa.gov/crn/qcdatasets.html)<sup>[1]<sup>[2] were used. The Sub-hourly quality control datasets are 
-
+In order to test the developed delta run length encoded algorithm, data sets for temperature and humidity were obtained from the National Oceanic Atmospheric Administration (NOAA). More specifically the [Sub-hourly quality control datasets](https://www.ncdc.noaa.gov/crn/qcdatasets.html)<sup>[1]</sup><sup>[2]</sup> were used.
 
 Place download datasets into the "OriginalFiles" folder.
 
@@ -142,8 +141,8 @@ The above derived formula is used to calculate raw ADC values from the NOAA data
 * DO NOT EDIT FILES IN ORIGINAL FILES FOLDER. This folder should contain ONLY the NOAA obtained data sets in CSV format.
 
 # Footnotes
-<sup>[1] Diamond, H. J., T. R. Karl, M. A. Palecki, C. B. Baker, J. E. Bell, R. D. Leeper, D. R. Easterling, J. H. Lawrimore, T. P. Meyers, M. R. Helfert, G. Goodge, and P. W. Thorne, 2013: U.S. Climate Reference Network after one decade of operations: status and assessment. Bull. Amer. Meteor. Soc., 94, 489-498.
+[1] Diamond, H. J., T. R. Karl, M. A. Palecki, C. B. Baker, J. E. Bell, R. D. Leeper, D. R. Easterling, J. H. Lawrimore, T. P. Meyers, M. R. Helfert, G. Goodge, and P. W. Thorne, 2013: U.S. Climate Reference Network after one decade of operations: status and assessment. Bull. Amer. Meteor. Soc., 94, 489-498.
 doi: 10.1175/BAMS-D-12-00170.1
 
-<sup>[2] Bell, J. E., M. A. Palecki, C. B. Baker, W. G. Collins, J. H. Lawrimore, R. D. Leeper, M. E. Hall, J. Kochendorfer, T. P. Meyers, T. Wilson, and H. J. Diamond. 2013: U.S. Climate Reference Network soil moisture and temperature observations. J. Hydrometeorol., 14, 977-988.
+[2] Bell, J. E., M. A. Palecki, C. B. Baker, W. G. Collins, J. H. Lawrimore, R. D. Leeper, M. E. Hall, J. Kochendorfer, T. P. Meyers, T. Wilson, and H. J. Diamond. 2013: U.S. Climate Reference Network soil moisture and temperature observations. J. Hydrometeorol., 14, 977-988.
 doi: 10.1175/JHM-D-12-0146.1
