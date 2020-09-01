@@ -146,3 +146,11 @@ doi: 10.1175/BAMS-D-12-00170.1
 
 [2] Bell, J. E., M. A. Palecki, C. B. Baker, W. G. Collins, J. H. Lawrimore, R. D. Leeper, M. E. Hall, J. Kochendorfer, T. P. Meyers, T. Wilson, and H. J. Diamond. 2013: U.S. Climate Reference Network soil moisture and temperature observations. J. Hydrometeorol., 14, 977-988.
 doi: 10.1175/JHM-D-12-0146.1
+
+
+# Special Thanks
+
+<table><tr>
+<td> <img src="./UCD_EEC.png"  style="width: 250px;"/> </td>
+<td> <img src="./MCSG.bmp"  style="width: 250px;"/> </td>
+</tr></table>
