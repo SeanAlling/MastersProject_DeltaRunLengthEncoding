@@ -1,3 +1,8 @@
+
+
+[![DOI](https://zenodo.org/badge/291910887.svg)](https://zenodo.org/badge/latestdoi/291910887)
+
+
 # Overview
 
 The following section presents a delta run length encoded method. This presented method provided a way to compress a data collected from environmental sensors. Using delta run length encoding provides a method that requires no additional memory to preform the encoding. 
